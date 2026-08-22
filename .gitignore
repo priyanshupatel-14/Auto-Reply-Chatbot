@@ -1,0 +1,5 @@
+#Environment Variabels
+.env
+
+#Files for only local testing
+client.py
