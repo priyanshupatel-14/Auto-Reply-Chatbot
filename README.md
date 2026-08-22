@@ -1,4 +1,4 @@
-# AI Auto-Reply
+# AI Auto-Reply ChatBot
 
 A Python automation project that reads the visible chat history, detects whether the latest message was sent by someone else, generates a short natural reply using Google Gemini, and sends the reply through the selected messaging app.
 
