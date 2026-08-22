@@ -1,6 +1,6 @@
 # Note, do make sure every modules is installed before running.
 # Use your own name for correct results.
-# Before runnig this program do make sure the Whatsapp or any other messaging is ON.
+# Before runnig this program do make sure the Whatsapp or any other messaging app is ON.
 # If possible use the Whatsapp Web on Chrome for best results.
 # To use this program, first get the coordinates of the cursor for chrome icon on taskbar, then the upper left corner and bottom right corner for dragging the screen.
 # While choosing the coordinates make sure only the chat is being copyed not the entire chrome tab.
